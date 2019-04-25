@@ -3,6 +3,8 @@ HTTP Parser
 
 [![Build Status](https://api.travis-ci.org/nodejs/http-parser.svg?branch=master)](https://travis-ci.org/nodejs/http-parser)
 
+[中文](./README_zh.md)
+
 This is a parser for HTTP messages written in C. It parses both requests and
 responses. The parser is designed to be used in performance HTTP
 applications. It does not make any syscalls nor allocations, it does not

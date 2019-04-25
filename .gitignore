@@ -18,6 +18,7 @@ parsertrace_g
 
 
 # Visual Studio uglies
+.vscode/
 *.suo
 *.sln
 *.vcxproj
